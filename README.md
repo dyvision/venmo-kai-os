@@ -1,2 +1,2 @@
 # venmo-kai-os
-A simple requesting system for venmo since it's unsupported
+A simple deep-link system for venmo since it's unsupported on Kai OS
